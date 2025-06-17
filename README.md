@@ -70,6 +70,8 @@
       width: 100%;
       border-radius: 6px;
     }
+
+    
   </style>
 </head>
 <body>
